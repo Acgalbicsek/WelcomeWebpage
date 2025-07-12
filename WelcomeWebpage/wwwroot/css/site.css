@@ -200,7 +200,7 @@ body {
         color: #fffaf3;
     }
 
-/* Optional: Add spacing between rows */
+/*  Add spacing between rows */
 .second-row {
     margin-top: 1rem;
 }
@@ -239,9 +239,16 @@ body {
     padding: 1rem;
 }
 
-/* Optional padding if the layout still feels too left-shifted */
+/*padding if the layout still feels too left-shifted*/  
 body {
     padding-left: 0;
     padding-right: 0;
+}
+
+/*for weather page*/
+.center-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px; 
 }
 

@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\views\\northernlights\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\views\\northernlights\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 182,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,64 +39,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\NorthernLights\\Index.cshtml",
-              "RelativeDocumentMoniker": "WelcomeWebpage\\Views\\NorthernLights\\Index.cshtml",
-              "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\NorthernLights\\Index.cshtml",
-              "RelativeToolTip": "WelcomeWebpage\\Views\\NorthernLights\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-12T03:22:53.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WelcomeWebpage\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WelcomeWebpage\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-12T03:17:26.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\Weather\\Index.cshtml",
-              "RelativeDocumentMoniker": "WelcomeWebpage\\Views\\Weather\\Index.cshtml",
-              "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\Weather\\Index.cshtml",
-              "RelativeToolTip": "WelcomeWebpage\\Views\\Weather\\Index.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-12T03:12:31.434Z",
+              "WhenOpened": "2025-07-12T06:03:00.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\Weather\\Index.cshtml",
+              "RelativeDocumentMoniker": "WelcomeWebpage\\Views\\Weather\\Index.cshtml",
+              "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\Weather\\Index.cshtml*",
+              "RelativeToolTip": "WelcomeWebpage\\Views\\Weather\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-12T05:54:23.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "WelcomeWebpage\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\wwwroot\\css\\site.css",
               "RelativeToolTip": "WelcomeWebpage\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAE8AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAAAP4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-07-11T23:42:58.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Program.cs",
               "RelativeDocumentMoniker": "WelcomeWebpage\\Program.cs",
               "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Program.cs",
               "RelativeToolTip": "WelcomeWebpage\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T17:42:44.329Z",
               "EditorCaption": ""
