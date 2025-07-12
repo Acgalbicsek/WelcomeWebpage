@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aLnzT9BwzmE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\WelcomeWebpage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acgal\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

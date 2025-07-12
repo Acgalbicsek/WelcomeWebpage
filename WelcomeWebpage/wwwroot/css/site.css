@@ -1,0 +1,232 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}
+
+/* === Welcome Card Styling === */
+.welcome-card {
+    background-color: #fffaf3;
+    color: #4b3f2a;
+    font-family: 'Georgia', serif;
+    padding: 2.5rem;
+    border-radius: 14px;
+    max-width: 800px;
+    margin: 3rem auto;
+    box-shadow: 0 8px 16px rgba(60, 40, 30, 0.1);
+    text-align: center;
+    border: 1px solid #e0d6c3;
+}
+
+    .welcome-card h1 {
+        font-size: 2.5rem;
+        margin-bottom: 1rem;
+        color: #5a422e;
+    }
+
+.intro-text {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+    line-height: 1.6;
+}
+
+.nav-list {
+    list-style: none;
+    padding: 0;
+}
+
+    .nav-list li {
+        margin: 1rem 0;
+    }
+
+.nav-link {
+    background-color: #d8c4a0;
+    color: #fffaf3;
+    padding: 0.6rem 1.2rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+}
+
+    .nav-link:hover {
+        background-color: #4b3f2a;
+        color: #fffaf3;
+    }
+
+/* AboutYourStay Styling*/
+.stay-card {
+    background-color: #fffaf3;
+    color: #4b3f2a;
+    font-family: 'Georgia', serif;
+    padding: 2rem;
+    border-radius: 12px;
+    border: 1px solid #d8c4a0;
+    max-width: 700px;
+    margin: 2rem auto;
+    box-shadow: 0 6px 12px rgba(60, 40, 30, 0.15);
+}
+
+    .stay-card h1, .stay-card h2 {
+        color: #5a422e;
+    }
+
+    .stay-card ul {
+        padding-left: 1.5rem;
+    }
+
+    .stay-card a {
+        display: inline-block;
+        margin-top: 1rem;
+        color: #6d8a6d;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+        .stay-card a:hover {
+            text-decoration: underline;
+            color: #4b3f2a;
+        }
+/*Nav Link Styling*/
+
+.nav-link {
+    color: #6d8a6d;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0.5rem 0;
+    display: inline-block;
+}
+
+    .nav-link:hover {
+        color: #4b3f2a;
+        text-decoration: underline;
+    }
+
+
+/* === Stay Card Styling === */
+.stay-card {
+    background-color: #fffaf3;
+    color: #4b3f2a;
+    font-family: 'Georgia', serif;
+    padding: 2rem;
+    border-radius: 12px;
+    border: 1px solid #d8c4a0;
+    max-width: 700px;
+    margin: 2rem auto;
+    box-shadow: 0 6px 12px rgba(60, 40, 30, 0.15);
+    text-align: left;
+}
+
+/* === Centering Wrapper === */
+.center-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 80vh;
+    padding: 2rem;
+}
+
+/* === Weather Card Styling === */
+.weather-card {
+    background-color: #fffaf3;
+    color: #4b3f2a;
+    font-family: 'Georgia', serif;
+    padding: 2rem;
+    border-radius: 12px;
+    border: 1px solid #d8c4a0;
+    box-shadow: 0 6px 12px rgba(60, 40, 30, 0.15);
+    max-width: 600px;
+    width: 100%;
+    text-align: center;
+}
+
+/*reusable style*/
+.page-wrapper {
+    background-color: #fcf8ed;
+    font-family: 'Georgia', serif;
+    color: #4b3f2a;
+    padding: 2rem;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.nav-links {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.nav-link {
+    background-color: #6d8a6d;
+    color: #fffaf3;
+    padding: 0.6rem 1.2rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    margin: 0.5rem;
+    transition: background-color 0.3s ease;
+}
+
+    .nav-link:hover {
+        background-color: #4b3f2a;
+        color: #fffaf3;
+    }
+
+/* Optional: Add spacing between rows */
+.second-row {
+    margin-top: 1rem;
+}
+.third-row{
+    margin-top: 1rem;
+}
+
+/* === Northern Lights Card Styling === */
+.northern-lights-card {
+    background-color: #fffaf3;
+    color: #4b3f2a;
+    font-family: 'Georgia', serif;
+    padding: 2rem;
+    border-radius: 12px;
+    border: 1px solid #d8c4a0;
+    max-width: 800px;
+    margin: 2rem auto;
+    text-align: center;
+    box-shadow: 0 6px 12px rgba(60, 40, 30, 0.15);
+}
+
+.aurora-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+

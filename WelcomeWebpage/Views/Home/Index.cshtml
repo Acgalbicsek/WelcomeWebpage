@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="welcome-card">
+    <h1>Welcome to The Mammoth House!</h1>
+    <p>We are delighted to have you here. Please take a moment to familiarize yourself with our home and the amenities available to you.</p>
+    <p>For any questions or assistance, feel free to reach out to us.</p>
+    <ul>
+        <a asp-controller="AboutYourStay" asp-action="Index" class="nav-link">About Your Stay</a>
+        <a asp-controller="AboutTheHouse" asp-action="Index" class="nav-link">About The House</a>
+        <a asp-controller="HouseRules" asp-action="Index" class="nav-link">House Rules</a>
+        <a asp-controller="WIFI" asp-action="Index" class="nav-link">WIFI</a>
+    </ul>
+    <ul>
+        <a asp-controller="LocalInformation" asp-action="Index" class="nav-link">Local Information</a>
+        <a asp-controller="NorthernLights" asp-action="Index" class="nav-link">Northern Lights</a>
+    </ul>
+    <ul>
+        <a asp-controller="ContactInformation" asp-action="Index" class="nav-link">Contact Information</a>
+    </ul>
+    
+
+

@@ -1,0 +1,74 @@
+﻿@model Weather
+
+   
+@{
+
+    <h2>Weather in @Model.City</h2>
+    <img src="@Model.IconUrl" alt="Weather icon" />
+    <p>Temperature: @Model.Temperature°F (Feels like @Model.FeelsLike°F)</p>
+    <p>Humidity: @Model.Humidity%</p>
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Weather at the Mammoth House</title>
+        <style>
+            body {
+                background-color: #f4f1ec;
+                color: #4b3f2a;
+                font-family: 'Georgia', serif;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .weather-card {
+                background-color: #fffaf5;
+                padding: 2rem;
+                border-radius: 12px;
+                box-shadow: 0 4px 10px rgba(80, 60, 40, 0.2);
+                width: 350px;
+                text-align: center;
+                border: 1px solid #d4c4b5;
+            }
+
+            .weather-card img {
+                width: 80px;
+            }
+
+            h2 {
+                margin-bottom: 0.5rem;
+                color: #3e3e3e;
+            }
+
+            .description {
+                font-style: italic;
+                margin-bottom: 1rem;
+            }
+
+            .temperature {
+                font-size: 1.5rem;
+                color: #5a422e;
+            }
+
+            .humidity {
+                font-size: 0.95rem;
+                color: #7b6650;
+            }
+        </style>
+    </head>
+    <body>
+        <div> class="center-wrapper"
+            <div class="weather-card">
+                <h2>Weather in @Model.City</h2>
+                <img src="@Model.IconUrl" alt="Weather icon" />
+                <p class="temperature">@Model.Temperature°F (Feels like @Model.FeelsLike°F)</p>
+                <p class="humidity">Humidity: @Model.Humidity%</p>
+            </div>
+        </div>
+    </body>
+    </html>
+}
