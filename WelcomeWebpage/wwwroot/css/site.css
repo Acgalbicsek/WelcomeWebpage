@@ -252,3 +252,23 @@ body {
     margin-top: 20px; 
 }
 
+/*picture next to weather icon*/
+.weather-icon-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem; /* space between icons */
+    margin-bottom: 1rem;
+}
+
+.weather-icon {
+    width: 80px;
+    height: auto;
+}
+
+.weather-side-img {
+    width: 120px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(60, 40, 30, 0.2);
+}

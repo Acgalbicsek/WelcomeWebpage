@@ -1,3 +1,5 @@
+using WelcomeWebpage.Services;
+
 namespace WelcomeWebpage
 {
     public class Program
@@ -11,6 +13,8 @@ namespace WelcomeWebpage
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddScoped<WeatherServices>();
+
 
             var app = builder.Build();
 

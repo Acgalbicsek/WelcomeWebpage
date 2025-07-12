@@ -8,5 +8,8 @@
         public int Humidity {  get; set; }
         public string? IconUrl { get; set; }
 
+
+
+       
     }
 }
