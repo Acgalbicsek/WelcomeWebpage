@@ -93,4 +93,5 @@ C:\Users\acgal\Desktop\repos\WelcomeWebpage\WelcomeWebpage\obj\Debug\net9.0\refi
 C:\Users\acgal\Desktop\repos\WelcomeWebpage\WelcomeWebpage\obj\Debug\net9.0\WelcomeWebpage.pdb
 C:\Users\acgal\Desktop\repos\WelcomeWebpage\WelcomeWebpage\obj\Debug\net9.0\WelcomeWebpage.genruntimeconfig.cache
 C:\Users\acgal\Desktop\repos\WelcomeWebpage\WelcomeWebpage\obj\Debug\net9.0\ref\WelcomeWebpage.dll
-C:\Users\acgal\Desktop\repos\WelcomeWebpage\WelcomeWebpage\obj\Debug\net9.0\compressed\u8tc4ul8o8-ujiwq4n45o.gz
+C:\Users\acgal\Desktop\repos\WelcomeWebpage\WelcomeWebpage\obj\Debug\net9.0\WelcomeWebpage.sourcelink.json
+C:\Users\acgal\Desktop\repos\WelcomeWebpage\WelcomeWebpage\obj\Debug\net9.0\compressed\u8tc4ul8o8-isoom37qzt.gz

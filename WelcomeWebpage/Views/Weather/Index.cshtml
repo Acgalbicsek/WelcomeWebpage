@@ -61,12 +61,13 @@
         </style>
     </head>
     <body>
-        <div> class="center-wrapper"
+        <div class="center-wrapper">
             <div class="weather-card">
                 <h2>Weather in @Model.City</h2>
                 <img src="@Model.IconUrl" alt="Weather icon" />
                 <p class="temperature">@Model.Temperature°F (Feels like @Model.FeelsLike°F)</p>
                 <p class="humidity">Humidity: @Model.Humidity%</p>
+            
             </div>
         </div>
     </body>

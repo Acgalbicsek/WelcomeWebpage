@@ -67,7 +67,7 @@ body {
 
 .nav-link {
     background-color: #d8c4a0;
-    color: #fffaf3;
+    color: #fffaf3 !important;
     padding: 0.6rem 1.2rem;
     border-radius: 8px;
     text-decoration: none;
@@ -78,7 +78,7 @@ body {
 
     .nav-link:hover {
         background-color: #4b3f2a;
-        color: #fffaf3;
+        color: #fffaf3 !important;
     }
 
 /* AboutYourStay Styling*/
@@ -228,5 +228,20 @@ body {
     border-radius: 10px;
     margin-bottom: 1.5rem;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.center-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    margin: 2rem auto;
+    max-width: 800px;
+    padding: 1rem;
+}
+
+/* Optional padding if the layout still feels too left-shifted */
+body {
+    padding-left: 0;
+    padding-right: 0;
 }
 
