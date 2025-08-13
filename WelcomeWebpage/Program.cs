@@ -1,13 +1,23 @@
+using Microsoft.EntityFrameworkCore;
+using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
+using WelcomeWebpage.Models;
 using WelcomeWebpage.Services;
+
+
+
 
 namespace WelcomeWebpage
 {
     public class Program
     {
         public static void Main(string[] args)
+
         {
             
             var builder = WebApplication.CreateBuilder(args);
+            var cs = builder.Configuration.GetConnectionString("DefaultConnection");
+            builder.Services.AddDbContext<ApplicationDbContext>(opt =>
+                opt.UseMySql(cs, ServerVersion.AutoDetect(cs)));
 
             builder.Services.AddHttpClient();
 

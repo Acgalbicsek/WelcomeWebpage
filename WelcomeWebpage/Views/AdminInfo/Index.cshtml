@@ -1,0 +1,25 @@
+﻿@model IEnumerable<WelcomeWebpage.Models.AdminInfo>
+<h2>Admins</h2>
+
+<p><a asp-action="Create" class="btn btn-primary">Create New</a></p>
+
+<table class="table">
+    <thead>
+        <tr><th>Name</th><th>Email</th><th></th></tr>
+    </thead>
+    <tbody>
+        @foreach (var a in Model)
+        {
+            <tr>
+                <td>@a.Name</td>
+                <td>@a.Email</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@a.Id">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@a.Id">Delete</a>
+                </td>
+            </tr>
+        }
+        <a asp-controller="Home" asp-action="Index" class="btn btn-outline-secondary">← Back to Home</a>
+
+    </tbody>
+</table>

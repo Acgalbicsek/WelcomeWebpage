@@ -1,0 +1,15 @@
+﻿@model WelcomeWebpage.Models.AdminInfo
+
+
+<h2>Delete Admin</h2>
+
+<p>Are you sure you want to delete <strong>@Model.Name</strong>?</p>
+
+<form asp-action="Delete Confirmed" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Yes, delete it</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+<a asp-controller="AdminInfo" asp-action="Index" class="btn btn-secondary">← Back to list</a>
+
