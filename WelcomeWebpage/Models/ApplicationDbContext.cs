@@ -11,6 +11,7 @@ namespace WelcomeWebpage.Models
             : base(options) { }
 
         public DbSet<AdminInfo> AdminInfos { get; set; } = null!;
+        public DbSet<InfoSection> InfoSections { get; set; } = null!;
 
         protected override void OnModelCreating(ModelBuilder b)
         {
@@ -23,6 +24,12 @@ namespace WelcomeWebpage.Models
             e.Property(x => x.UpdatedAt).HasColumnName("UpdatedAt");   // <-- At
             e.Property(x => x.IsDeleted).HasColumnName("IsDeleted").HasColumnType("tinyint(1)");
             e.Property(x => x.DeletedAt).HasColumnName("DeletedAt");   // <-- At
+
+
+            var s = b.Entity<InfoSection>();
+            s.ToTable("infosection");
+            s.Property(x => x.IsVisible).HasColumnType("tinyint(1)");
+            s.HasIndex(x => x.Slug).IsUnique();
         }
     }
 }

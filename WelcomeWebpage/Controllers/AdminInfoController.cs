@@ -66,5 +66,41 @@ namespace WelcomeWebpage.Controllers
             return RedirectToAction(nameof(Index));
         }
     }
+
+    public class SectionsController : Controller
+    {
+        private readonly ApplicationDbContext _db;
+        public SectionsController(ApplicationDbContext db) => _db = db;
+
+        // List all sections
+        public async Task<IActionResult> Index() =>
+            View(await _db.InfoSections.AsNoTracking().OrderBy(s => s.SortOrder).ToListAsync());
+
+        // Edit by slug for convenience
+        [HttpGet]
+        public async Task<IActionResult> Edit(string slug)
+        {
+            if (string.IsNullOrWhiteSpace(slug)) return BadRequest();
+            var section = await _db.InfoSections.FirstOrDefaultAsync(s => s.Slug == slug);
+            if (section == null) return NotFound();
+            return View(section);
+        }
+
+        [HttpPost, ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(string slug, InfoSection model)
+        {
+            if (!ModelState.IsValid) return View(model);
+            var section = await _db.InfoSections.FirstOrDefaultAsync(s => s.Slug == slug);
+            if (section == null) return NotFound();
+
+            section.Title = model.Title;
+            section.Content = model.Content;
+            section.SortOrder = model.SortOrder;
+            section.IsVisible = model.IsVisible;
+
+            await _db.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
+        }
+    }
 }
 

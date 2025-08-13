@@ -19,6 +19,17 @@
                 </td>
             </tr>
         }
+        <h3>Manage Website Content</h3>
+        <div class="d-grid gap-2 d-md-block">
+            <a class="btn btn-outline-primary mb-2" asp-controller="Sections" asp-action="Edit" asp-route-slug="about-the-house">Edit “About The House”</a>
+            <a class="btn btn-outline-primary mb-2" asp-controller="Sections" asp-action="Edit" asp-route-slug="about-your-stay">Edit “About Your Stay”</a>
+            <a class="btn btn-outline-primary mb-2" asp-controller="Sections" asp-action="Edit" asp-route-slug="wifi">Edit “WIFI”</a>
+            <a class="btn btn-outline-primary mb-2" asp-controller="Sections" asp-action="Edit" asp-route-slug="house-rules">Edit “House Rules”</a>
+            <a class="btn btn-outline-primary mb-2" asp-controller="Sections" asp-action="Edit" asp-route-slug="contact-information">Edit “Contact Information”</a>
+            <a class="btn btn-outline-primary mb-2" asp-controller="Sections" asp-action="Edit" asp-route-slug="local-information">Edit “Local Information”</a>
+            <a class="btn btn-outline-primary mb-2" asp-controller="Sections" asp-action="Edit" asp-route-slug="northern-lights">Edit “Northern Lights”</a>
+            <a class="btn btn-link" asp-controller="Sections" asp-action="Index">All sections</a>
+        </div>
         <a asp-controller="Home" asp-action="Index" class="btn btn-outline-secondary">← Back to Home</a>
 
     </tbody>

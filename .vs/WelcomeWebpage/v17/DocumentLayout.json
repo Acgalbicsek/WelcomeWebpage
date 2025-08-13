@@ -3,44 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\views\\admininfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\views\\admininfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\controllers\\infosectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\controllers\\infosectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\views\\admininfo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\views\\admininfo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\views\\sections\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\views\\sections\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\views\\admininfo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\views\\admininfo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\views\\sections\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\views\\sections\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\models\\infosection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\models\\infosection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\views\\admininfo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\views\\admininfo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\controllers\\admininfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\controllers\\admininfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\models\\admininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\models\\admininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\views\\admininfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\views\\admininfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\controllers\\admininfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\controllers\\admininfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\views\\admininfo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\views\\admininfo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\views\\admininfo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\views\\admininfo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|solutionrelative:welcomewebpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{869F145E-6F0A-44E7-A069-12707EA03912}|WelcomeWebpage\\WelcomeWebpage.csproj|c:\\users\\acgal\\desktop\\repos\\welcomewebpage\\welcomewebpage\\models\\adminloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,8 +69,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 25,
-          "SelectedChildIndex": 7,
+          "DockedWidth": 88,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,45 +79,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "WelcomeWebpage\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "WelcomeWebpage\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T00:26:05.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdminInfoController.cs",
-              "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Controllers\\AdminInfoController.cs",
-              "RelativeDocumentMoniker": "WelcomeWebpage\\Controllers\\AdminInfoController.cs",
-              "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Controllers\\AdminInfoController.cs",
-              "RelativeToolTip": "WelcomeWebpage\\Controllers\\AdminInfoController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T00:38:48.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\AdminInfo\\Edit.cshtml",
-              "RelativeDocumentMoniker": "WelcomeWebpage\\Views\\AdminInfo\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\AdminInfo\\Edit.cshtml*",
-              "RelativeToolTip": "WelcomeWebpage\\Views\\AdminInfo\\Edit.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-13T04:45:21.389Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -118,41 +95,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\AdminInfo\\Create.cshtml",
-              "RelativeDocumentMoniker": "WelcomeWebpage\\Views\\AdminInfo\\Create.cshtml",
-              "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\AdminInfo\\Create.cshtml*",
-              "RelativeToolTip": "WelcomeWebpage\\Views\\AdminInfo\\Create.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-13T04:44:55.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\AdminInfo\\Index.cshtml",
-              "RelativeDocumentMoniker": "WelcomeWebpage\\Views\\AdminInfo\\Index.cshtml",
-              "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\AdminInfo\\Index.cshtml*",
-              "RelativeToolTip": "WelcomeWebpage\\Views\\AdminInfo\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "WelcomeWebpage\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "WelcomeWebpage\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-13T05:02:30.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\appsettings.json",
-              "RelativeDocumentMoniker": "WelcomeWebpage\\appsettings.json",
-              "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\appsettings.json",
-              "RelativeToolTip": "WelcomeWebpage\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-13T00:19:12.433Z",
+              "WhenOpened": "2025-08-13T04:44:16.992Z",
               "EditorCaption": ""
             },
             {
@@ -170,7 +121,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\AdminInfo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WelcomeWebpage\\Views\\AdminInfo\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\AdminInfo\\Edit.cshtml",
+              "RelativeToolTip": "WelcomeWebpage\\Views\\AdminInfo\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T04:45:21.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\AdminInfo\\Index.cshtml",
+              "RelativeDocumentMoniker": "WelcomeWebpage\\Views\\AdminInfo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\AdminInfo\\Index.cshtml*",
+              "RelativeToolTip": "WelcomeWebpage\\Views\\AdminInfo\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T05:02:30.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WelcomeWebpage\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Models\\ApplicationDbContext.cs*",
+              "RelativeToolTip": "WelcomeWebpage\\Models\\ApplicationDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T00:26:05.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\AdminInfo\\Create.cshtml",
+              "RelativeDocumentMoniker": "WelcomeWebpage\\Views\\AdminInfo\\Create.cshtml",
+              "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\AdminInfo\\Create.cshtml",
+              "RelativeToolTip": "WelcomeWebpage\\Views\\AdminInfo\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T04:44:55.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\appsettings.json",
+              "RelativeDocumentMoniker": "WelcomeWebpage\\appsettings.json",
+              "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\appsettings.json",
+              "RelativeToolTip": "WelcomeWebpage\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-13T00:19:12.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "AdminLoginModel.cs",
               "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Models\\AdminLoginModel.cs",
               "RelativeDocumentMoniker": "WelcomeWebpage\\Models\\AdminLoginModel.cs",
@@ -178,44 +193,94 @@
               "RelativeToolTip": "WelcomeWebpage\\Models\\AdminLoginModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T01:14:04.199Z",
+              "WhenOpened": "2025-08-06T01:14:04.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\AdminInfo\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WelcomeWebpage\\Views\\AdminInfo\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\AdminInfo\\Delete.cshtml",
+              "RelativeToolTip": "WelcomeWebpage\\Views\\AdminInfo\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T04:45:14.536Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 137,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\Sections\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WelcomeWebpage\\Views\\Sections\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\Sections\\Edit.cshtml*",
+              "RelativeToolTip": "WelcomeWebpage\\Views\\Sections\\Edit.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T17:25:58.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\AdminInfo\\Delete.cshtml",
-              "RelativeDocumentMoniker": "WelcomeWebpage\\Views\\AdminInfo\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\AdminInfo\\Delete.cshtml*",
-              "RelativeToolTip": "WelcomeWebpage\\Views\\AdminInfo\\Delete.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\Sections\\Index.cshtml",
+              "RelativeDocumentMoniker": "WelcomeWebpage\\Views\\Sections\\Index.cshtml",
+              "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\Sections\\Index.cshtml*",
+              "RelativeToolTip": "WelcomeWebpage\\Views\\Sections\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-13T04:45:14.536Z",
+              "WhenOpened": "2025-08-13T17:24:43.776Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "WelcomeWebpage\\Views\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Views\\Admin\\Index.cshtml",
-              "RelativeToolTip": "WelcomeWebpage\\Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-13T04:44:16.992Z",
+              "DocumentIndex": 0,
+              "Title": "InfoSectionsController.cs",
+              "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Controllers\\InfoSectionsController.cs",
+              "RelativeDocumentMoniker": "WelcomeWebpage\\Controllers\\InfoSectionsController.cs",
+              "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Controllers\\InfoSectionsController.cs*",
+              "RelativeToolTip": "WelcomeWebpage\\Controllers\\InfoSectionsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:22:14.016Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 14,
-          "SelectedChildIndex": -1,
-          "Children": [
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InfoSection.cs",
+              "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Models\\InfoSection.cs",
+              "RelativeDocumentMoniker": "WelcomeWebpage\\Models\\InfoSection.cs",
+              "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Models\\InfoSection.cs*",
+              "RelativeToolTip": "WelcomeWebpage\\Models\\InfoSection.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:15:46.458Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Controllers\\AdminInfoController.cs",
+              "RelativeDocumentMoniker": "WelcomeWebpage\\Controllers\\AdminInfoController.cs",
+              "ToolTip": "C:\\Users\\acgal\\Desktop\\repos\\WelcomeWebpage\\WelcomeWebpage\\Controllers\\AdminInfoController.cs*",
+              "RelativeToolTip": "WelcomeWebpage\\Controllers\\AdminInfoController.cs*",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwGcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T00:38:48.071Z",
+              "EditorCaption": ""
             }
           ]
         }
